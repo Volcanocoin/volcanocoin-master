@@ -1,0 +1,9 @@
+Building Volcanocoin
+
+See doc/readme-qt.rst for instructions on building Volcanocoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Volcanocoin.
+
+See doc/build-*.txt for instructions on building Volcanocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Volcanocoin.
