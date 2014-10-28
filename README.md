@@ -3,9 +3,9 @@ Volcanocoin (Volc) Release
 Volcanocoin is a new crypto currency with the following Specifiactions;
 
 
-PoW Reward = 500 Volc
-PoW Cutoff = Block 10050
-Total Volc = 6,000,000
+PoW Reward = 200 Volc
+PoW Cutoff = Block 20000
+Total Volc = 10,000,000
 
 60 Second Block Spacing
 1 Hour Min Stake
